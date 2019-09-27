@@ -7,3 +7,4 @@ Git tracks changes.
 Creating a new branch is quick.
 aa
 dev
+Creating a new branch is quick AND simple.
